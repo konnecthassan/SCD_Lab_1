@@ -1,3 +1,4 @@
+#SCD_Lab_1
 public class CalculatorMain {
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
